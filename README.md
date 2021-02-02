@@ -7,3 +7,6 @@ The dataset containing the conversion rates between new and old websites for an 
 
 ### Disclaimer
 All work presented here is my own. While you may reference this work, it is to be noted Udacity imposes a strict policy on plagiarism. 
+
+#### Other Info
+Project uses Jupyter notebooks, Python and HTML. Please ensure you have the necessary configurations to run this project. 
